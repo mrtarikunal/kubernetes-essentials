@@ -1,0 +1,10 @@
+apiVersion:
+kind:
+metadata:
+spec:
+
+
+//ilk üçü tüm kubernetes oluşumunda vardır.
+//kind ne tip obje oluşturcaksak onu buna yazyrz
+//apiVersion öğrenmek için kubectl explain pods yazar ve öğrenrz
+//spec ile objenin özelliklerini tanımlarz   
